@@ -1,0 +1,5 @@
+import ext.HttpContext as web;
+
+let text = 'hello world!';
+
+web.body(text);
