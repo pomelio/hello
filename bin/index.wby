@@ -1,4 +1,4 @@
-import ext.HttpContext as web;
+import ext.web as web;
 
 let text = 'hello world!';
 
